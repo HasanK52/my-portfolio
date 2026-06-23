@@ -6,4 +6,4 @@
 
 ### Python Essentials - CISCO
 [PDF Görüntüle](https://github.com/HasanK52/my-portfolio/blob/main/PythonEssentials1Update20260623-30-kj0hze.pdf)
-![Rozet](https://github.com/HasanK52/my-portfolio/blob/main/python-essentials-1.1.png)
+![Rozet](https://github.com/HasanK52/my-portfolio/blob/main/python-essentials-1.png)
